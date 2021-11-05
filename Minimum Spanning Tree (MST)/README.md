@@ -1,4 +1,4 @@
-MST
+# MST - Minimum Spanning Tree
 
 MST folder is provided from professor
 File submitted is the PartialTreeList.java
